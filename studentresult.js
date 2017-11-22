@@ -49,8 +49,7 @@ function generateTable() {
     for (var i = 0; i < studentsMarksArray.length; i++) {
         // creates a table row
         var row = document.createElement("tr");
-        document.write("hehe");
-             
+        
         for (var j = 0; j < 8; j++) {
         // Create a <td> element and a text node, make the text
         // node the contents of the <td>, and put the <td> at
