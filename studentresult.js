@@ -4,7 +4,7 @@
     If yes, then his grade should be displayed as Fail.
     Calculate the marks, the average and display the grade of a student 
  */
-var headTextArray = ["No.", "Student Name", "Subject 1", "Subject 2", "Subject3", "Marks", "Average", "Grade"];
+var headTextArray = ["No.", "Student Name", "Subject 1", "Subject 2", "Subject3", "Total Marks", "Average", "Grade"];
 
 var studentsMarksArray = [[1,"Ram",30,54,45], [2,"Raj",45,60,76],[3,"Rani",38,53,60] ];
 function generateTable() {
